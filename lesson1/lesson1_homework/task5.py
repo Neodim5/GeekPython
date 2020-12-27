@@ -9,8 +9,14 @@ __author__ = 'Neklyudov Dmitry'
 name = input("Введите ваше имя: ")
 print("Здравствуйте, %s!" % name)
 
-inbox = int(input("Введите значения выручки >>> "))
-outbox = int(input("Введите значения издержек фирмы >>> "))
+inbox = input("Введите значения выручки >>> ")
+if not inbox.isdigit():
+    print("Не верный формат")
+    exit()
+outbox = input("Введите значения издержек фирмы >>> ")
+if not outbox.isdigit():
+    print("Не верный формат")
+    exit()
 
 if inbox > outbox:
     rent = (inbox / outbox) * 100
