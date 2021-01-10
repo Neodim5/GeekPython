@@ -2,20 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="368c452a-42b1-4fdf-9371-7b52e2069224" name="Default Changelist" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/lesson4/lesson4_homework/task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/lesson4_homework/task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/lesson4_homework/task3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/lesson4_homework/task4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/lesson4_homework/task5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/lesson4_homework/task6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/lesson4_homework/task7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/test/gen_dic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/test/generator_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/test/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/test/my_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/test/random_gen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/test/script_params_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4/test/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/lesson5_homework/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/lesson5_homework/task2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/lesson5_homework/task2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/lesson5_homework/task3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/lesson5_homework/task3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/lesson5_homework/task4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/lesson5_homework/task4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/lesson5_homework/task5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/test/context_print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/test/context_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/test/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/test/json_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/test/jsondata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/test/os_overview.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/test/shutil_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/test/simple_writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/test/simplereader.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,17 +68,21 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lesson5/test/test2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="R:\Cloud Mail.Ru\Temp\GeekBrains\BasicPython\GeekPython\lesson5\test\test2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="R:\Cloud Mail.Ru\Temp\GeekBrains\ОсновыPython\GeekPython\lesson1" />
       <recent name="R:\Cloud Mail.Ru\Temp\GeekBrains\ОсновыPython\GeekPython\lesson2" />
       <recent name="Z:\Temp\GeekBrains\ОсновыPython\GeekPython" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.task7">
+  <component name="RunManager" selected="Python.task4">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="GeekPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,6 +104,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="shutil_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GeekPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson5/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson5/test/shutil_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GeekPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson5/lesson5_homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson5/lesson5_homework/task1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="task2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="GeekPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,11 +154,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson4/lesson4_homework" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson5/lesson5_homework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson4/lesson4_homework/task2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson5/lesson5_homework/task2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="GeekPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson5/lesson5_homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson5/lesson5_homework/task3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,74 +196,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson4/lesson4_homework" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson5/lesson5_homework" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson4/lesson4_homework/task4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="task5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="GeekPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson4/lesson4_homework" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson4/lesson4_homework/task5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="task6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="GeekPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson4/lesson4_homework" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson4/lesson4_homework/task6.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="task7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="GeekPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson4/lesson4_homework" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson4/lesson4_homework/task7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson5/lesson5_homework/task4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,11 +211,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.task7" />
-        <item itemvalue="Python.task6" />
-        <item itemvalue="Python.task5" />
         <item itemvalue="Python.task4" />
+        <item itemvalue="Python.task3" />
         <item itemvalue="Python.task2" />
+        <item itemvalue="Python.task1" />
+        <item itemvalue="Python.shutil_test" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609476497690</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Lesson 4 + homework">
+      <created>1609911558391</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1609911558391</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -302,6 +317,7 @@
     <MESSAGE value="дополнения по решению заданий исправление ошибок 1" />
     <MESSAGE value="Lesson 2 and home work" />
     <MESSAGE value="Lesson 3 + homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 3 + homework" />
+    <MESSAGE value="Lesson 4 + homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 4 + homework" />
   </component>
 </project>
