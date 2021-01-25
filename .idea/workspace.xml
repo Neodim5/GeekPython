@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="368c452a-42b1-4fdf-9371-7b52e2069224" name="Default Changelist" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/lesson8/lesson8_homework/task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson8/lesson8_homework/task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson8/lesson8_homework/task3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson8/lesson8_homework/task4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson8/lesson8_homework/task5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson8/lesson8_homework/task6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson8/test/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson8/test/baseclass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson8/test/hash.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson8/test/ps_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson8/test/reqs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson8/test/static_class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/GeekPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/GeekPython.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
-    </list>
+    <list default="true" id="368c452a-42b1-4fdf-9371-7b52e2069224" name="Default Changelist" comment="first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -297,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611365850469</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Lesson8 and homework">
+      <created>1611590634548</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1611590634548</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -341,6 +330,7 @@
     <MESSAGE value="Lesson5" />
     <MESSAGE value="lesson6 + lesson6_homework" />
     <MESSAGE value="Lesson 7 and Homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 7 and Homework" />
+    <MESSAGE value="Lesson8 and homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson8 and homework" />
   </component>
 </project>

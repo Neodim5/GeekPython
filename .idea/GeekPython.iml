@@ -7,7 +7,7 @@
       <excludeFolder url="file://$MODULE_DIR$/lesson7/test_AlxndrIl" />
       <excludeFolder url="file://$MODULE_DIR$/lesson7/test_MaxBit" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.9 (GeekPython)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.9" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
